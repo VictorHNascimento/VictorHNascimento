@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello, World! 👋
 
-<!--
-**VictorHNascimento/VictorHNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Victor Hugo do Nascimento e sou um(a) entusiasta da tecnologia apaixonado(a) por resolver problemas e aprender coisas novas. Atualmente, estou cursando Ciência de Dados na Fatec Ourinhos e estou focado(a) em desenvolver minhas habilidades em Python, Machine Learning  e IA.
 
-Here are some ideas to get you started:
+### 💻 Linguagens e Ferramentas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linguagem de Programação: HTML, CSS, PHP, PYTHON
+- Banco de Dados: MYSQL, MARIADB, SQLSERVER, MONGODB
+- Outras Ferramentas: POWER BI
+
+### 📫 Como Entrar em Contato:
+
+- E-mail: contato.victorhnascimento@gmail.com
+- LinkedIn: https://www.linkedin.com/in/victor-hugo-do-nascimento-aaa914217/
+- Celular: 14 999016668
+
+### 📊 Estatísticas do GitHub:
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VictorHNascimento&show_icons=true)
+
+Se quiser conversar sobre tecnologia, aprender juntos ou colaborar em projetos, sinta-se à vontade para entrar em contato!
