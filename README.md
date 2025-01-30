@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-Meu nome é Victor Hugo do Nascimento e sou um(a) entusiasta da tecnologia apaixonado(a) por resolver problemas e aprender coisas novas. Atualmente, estou cursando Ciência de Dados na Fatec Ourinhos e estou focado(a) em desenvolver minhas habilidades em Python, Machine Learning  e IA.
+Meu nome é Victor Hugo do Nascimento e sou um(a) entusiasta da tecnologia apaixonado(a) por resolver problemas e aprender coisas novas. Atualmente, sou formado em Ciência de Dados pela Fatec Ourinhos e estou focado(a) em desenvolver minhas habilidades em Python, Machine Learning  e IA.
 
 ### 💻 Linguagens e Ferramentas:
 
