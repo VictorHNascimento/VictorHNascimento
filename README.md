@@ -13,7 +13,7 @@ Acesse meu portfólio em:
   "avatar_url": "https://avatars.githubusercontent.com/u/87531201?v=4",
   "website": "",
   "githubUser": "VictorHNascimento",
-  "linkedinUser": " https://www.linkedin.com/in/victor-hugo-do-nascimento-aaa914217",
+  "linkedinUser": "https://www.linkedin.com/in/victor-hugo-do-nascimento-aaa914217",
   "about": "Profissional formado em Ciência de Dados com experiência como suporte técnico. Atuo no atendimento ao cliente, diagnóstico e resolução de problemas, execução de consultas SQL e documentação de processos.
 Tenho habilidades em ferramentas como: SQL, Excel, Power BI, Python. Busco oportunidade para aplicar meus conhecimentos na pratica",
   "showStars": true,
